@@ -1,0 +1,6 @@
+{
+    "Random Forest": 0.7878,
+    "HistGradientBoosting": 0.7518,
+    "MLP (Neural Network)": 0.7419,
+    "Weighted Ensemble": 0.7917
+}
